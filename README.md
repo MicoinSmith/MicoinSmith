@@ -132,13 +132,11 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 
 ---
 
-## 🎲 Random / 随机
+## 📜 格言 / Motto
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
+<a href="https://github.com/MicoinSmith" title="点一下换一句 · Click for another"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/></a>
 
 </div>
 

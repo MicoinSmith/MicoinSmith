@@ -33,59 +33,6 @@
 
 ---
 
-## ⭐ Featured Projects / 精选项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 [rdna2-vllm-rocm7](https://github.com/MicoinSmith/rdna2-vllm-rocm7)
-
-Run **vLLM on RDNA2 (RX 6800/6900 XT)** with ROCm 7.x — prebuilt gfx1030 wheels + reproducible build scripts, cutting a multi-day from-source build down to ~1 hour.
-
-`Shell` · `ROCm` · `PyTorch`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Manus-claude-skill](https://github.com/MicoinSmith/Manus-claude-skill)
-
-A **Claude Code plugin** that turns Manus AI's async `task_id` into a real result — create, poll to completion, and retrieve output in one step.
-
-`JavaScript` · `Claude Code` · `Agent`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍎 [Create-macOS-Dmg](https://github.com/MicoinSmith/Create-macOS-Dmg)
-
-macOS installer toolkit — one-command ISO conversion and bootable USB creation, with validation, error handling and colored reporting.
-
-`Shell` · `macOS`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧱 [nextScaffold](https://github.com/MicoinSmith/nextScaffold)
-
-Next.js + React scaffold wired with Koa, an express-based mock server, Ant Design, and promise-style axios wrappers.
-
-`JavaScript` · `Next.js` · `Koa`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/MicoinSmith?tab=repositories&q=&type=source"><b>→ All repositories</b></a>
-
-</div>
-
----
-
 ## 🛠 Tech Stack / 技术栈
 
 <div align="center">

@@ -25,7 +25,7 @@
 
 <div align="center">
 
-💼 **Open to** — AI 应用开发 / 出海接单 / 远程 · **Open to** remote & freelance AI app work
+💼 **Open to** — AI 应用开发 · AI App Development
 
 📍 Zhejiang, China · 🌐 [MicoinSmith.github.io](https://MicoinSmith.github.io)
 
@@ -33,82 +33,7 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,html,css,python,rust,bash,docker,linux,git,github&theme=dark" alt="stack"/>
-
-<br/><br/>
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white)
-![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MicoinSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=MicoinSmith&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoinSmith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MicoinSmith&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph"/>
-
-</div>
-
----
-
-## 📈 Metrics
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MicoinSmith&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## ⭐ Featured Projects
+## ⭐ Featured Projects / 精选项目
 
 <table>
 <tr>
@@ -116,7 +41,7 @@
 
 ### 🔥 [rdna2-vllm-rocm7](https://github.com/MicoinSmith/rdna2-vllm-rocm7)
 
-Run **vLLM on RDNA2 (RX 6800/6900 XT)** with ROCm 7.x — prebuilt gfx1030 wheels + reproducible build scripts, cutting a multi-day from-source build down to ~1 hour. *Skips the optional aiter AOT build nobody actually needs.*
+Run **vLLM on RDNA2 (RX 6800/6900 XT)** with ROCm 7.x — prebuilt gfx1030 wheels + reproducible build scripts, cutting a multi-day from-source build down to ~1 hour.
 
 `Shell` · `ROCm` · `PyTorch`
 
@@ -161,7 +86,63 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 
 ---
 
-## 🎮 Play Connect4 with me
+## 🛠 Tech Stack / 技术栈
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,html,css,python,rust,bash,docker,linux,git,github&theme=dark" alt="stack"/>
+
+<br/><br/>
+
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white)
+![ROCm](https://img.shields.io/badge/ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats / 数据
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MicoinSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=MicoinSmith&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoinSmith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs"/>
+
+</div>
+
+---
+
+## 📈 Metrics / 综合面板
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake / 贡献贪吃蛇
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🎮 Play Connect4 with me / 来下一盘
 
 No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->yellow<!-- END TURN -->'s turn. Click a column under the board, a pre-filled issue opens, just hit **Create** and the bot plays your move.
 
@@ -181,7 +162,7 @@ No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->
 <!-- END MOVES LIST -->
 
 <details>
-<summary>📜 Last 5 moves</summary>
+<summary>📜 Last 5 moves / 最近 5 步</summary>
 
 <!-- BEGIN LAST MOVES -->
 | Move | Author |
@@ -191,7 +172,7 @@ No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->
 </details>
 
 <details>
-<summary>🏅 Top 10 players across all games</summary>
+<summary>🏅 Top 10 players / 全站排行</summary>
 
 <!-- BEGIN TOP MOVES -->
 | Total moves |  User  |

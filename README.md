@@ -122,7 +122,7 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
+<img src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
 
 </div>
 
@@ -144,7 +144,7 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 
 ## 🎮 Play Connect4 with me / 来下一盘
 
-No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->red<!-- END TURN -->'s turn. Click a column under the board, a pre-filled issue opens, just hit **Create** and the bot plays your move.
+No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->yellow<!-- END TURN -->'s turn. Click a column under the board, a pre-filled issue opens, just hit **Create** and the bot plays your move.
 
 <!-- BEGIN CONNECT4 BOARD -->
 |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
@@ -154,7 +154,7 @@ No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/yellow.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
 |   | [1](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+1) | [2](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+2) | [3](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+3) | [4](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+4) | [5](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+5) | [6](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+6) | [7](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+7) |   |
 <!-- END CONNECT4 BOARD -->
 
@@ -168,7 +168,6 @@ No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->
 
 | Move | Author |
 | :--: | :----- |
-| `4` |  [ @MicoinSmith](https://github.com/MicoinSmith) | |
 | `Start game` |  [ @MicoinSmith](https://github.com/MicoinSmith) | |
 
 <!-- END LAST MOVES -->
@@ -181,7 +180,6 @@ No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 1 |  [@MicoinSmith](https://github.com/MicoinSmith) | |
 
 <!-- END TOP MOVES -->
 </details>

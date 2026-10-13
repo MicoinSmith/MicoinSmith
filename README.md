@@ -118,16 +118,6 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 
 ---
 
-## 📈 Metrics / 综合面板
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake / 贡献贪吃蛇
 
 <div align="center">
@@ -139,50 +129,6 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 </picture>
 
 </div>
-
----
-
-## 🎮 Play Connect4 with me / 来下一盘
-
-No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->yellow<!-- END TURN -->'s turn. Click a column under the board, a pre-filled issue opens, just hit **Create** and the bot plays your move.
-
-<!-- BEGIN CONNECT4 BOARD -->
-|   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
-|   | [1](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+1) | [2](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+2) | [3](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+3) | [4](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+4) | [5](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+5) | [6](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+6) | [7](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+7) |   |
-<!-- END CONNECT4 BOARD -->
-
-<!-- BEGIN MOVES LIST -->
-<!-- END MOVES LIST -->
-
-<details>
-<summary>📜 Last 5 moves / 最近 5 步</summary>
-
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `Start game` |  [ @MicoinSmith](https://github.com/MicoinSmith) | |
-
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-<summary>🏅 Top 10 players / 全站排行</summary>
-
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-
-<!-- END TOP MOVES -->
-</details>
 
 ---
 

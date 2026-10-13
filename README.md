@@ -54,9 +54,9 @@
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=MicoinSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&card_width=280" alt="stats"/>
-<img width="24%" src="https://streak-stats.demolab.com?user=MicoinSmith&theme=tokyonight&hide_border=true&card_width=280" alt="streak"/>
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoinSmith&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="top-langs"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=MicoinSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&card_width=280" alt="stats"/>
+<img width="22%" src="https://streak-stats.demolab.com?user=MicoinSmith&theme=tokyonight&hide_border=true&card_width=280" alt="streak"/>
+<img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicoinSmith&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="top-langs"/>
 
 </div>
 

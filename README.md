@@ -27,7 +27,7 @@
 
 💼 **Open to** — AI 应用开发 / 出海接单 / 远程 · **Open to** remote & freelance AI app work
 
-📍 Lishui, China · 🌐 [MicoinSmith.github.io](https://MicoinSmith.github.io)
+📍 Zhejiang, China · 🌐 [MicoinSmith.github.io](https://MicoinSmith.github.io)
 
 </div>
 
@@ -69,6 +69,16 @@
 <br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MicoinSmith&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph"/>
+
+</div>
+
+---
+
+## 📈 Metrics
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/MicoinSmith/MicoinSmith/main/github-metrics.svg" alt="Metrics"/>
 
 </div>
 
@@ -146,6 +156,58 @@ Next.js + React scaffold wired with Koa, an express-based mock server, Ant Desig
 <div align="center">
 
 <a href="https://github.com/MicoinSmith?tab=repositories&q=&type=source"><b>→ All repositories</b></a>
+
+</div>
+
+---
+
+## 🎮 Play Connect4 with me
+
+No clone, no signup. Beat me at Connect4 right here — it's <!-- BEGIN TURN -->yellow<!-- END TURN -->'s turn. Click a column under the board, a pre-filled issue opens, just hit **Create** and the bot plays your move.
+
+<!-- BEGIN CONNECT4 BOARD -->
+|   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|---|<img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | |---|
+|   | [1](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+1) | [2](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+2) | [3](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+3) | [4](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+4) | [5](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+5) | [6](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+6) | [7](https://github.com/MicoinSmith/MicoinSmith/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Connect4%3A+Put+7) |   |
+<!-- END CONNECT4 BOARD -->
+
+<!-- BEGIN MOVES LIST -->
+<!-- END MOVES LIST -->
+
+<details>
+<summary>📜 Last 5 moves</summary>
+
+<!-- BEGIN LAST MOVES -->
+| Move | Author |
+| :--: | :----- |
+| `Start game` |  [ @MicoinSmith](https://github.com/MicoinSmith) | |
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+<summary>🏅 Top 10 players across all games</summary>
+
+<!-- BEGIN TOP MOVES -->
+| Total moves |  User  |
+| :---------: | :----- |
+<!-- END TOP MOVES -->
+</details>
+
+---
+
+## 🎲 Random / 随机
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
 
 </div>
 
